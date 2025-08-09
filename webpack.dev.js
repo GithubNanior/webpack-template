@@ -9,4 +9,4 @@ module.exports = merge(common, {
             "./src/index.html"
         ]
     }
-})
+});
